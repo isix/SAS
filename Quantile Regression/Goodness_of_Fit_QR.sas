@@ -1,5 +1,5 @@
-# Goodness-of-Fit Statistics for Quantile Regression
-# (https://www.federalreserve.gov/econresdata/feds/2016/files/2016002r1pap.pdf) 
+* Goodness-of-Fit Statistics for Quantile Regression ;
+* (https://www.federalreserve.gov/econresdata/feds/2016/files/2016002r1pap.pdf) ;
 
 %macro quant_gof(data = , y = , x = , tau = 0.5);
 ***********************************************************;
